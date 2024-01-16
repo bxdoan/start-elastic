@@ -1,0 +1,22 @@
+# pycharm
+.idea
+
+# pyenv
+.python-version
+
+# envvar
+.env
+*.log
+*.pid
+
+# pycache
+__pycache__
+.DS_Store
+
+tmp/
+log/
+pid/
+.gunicorn
+flower.db.bak
+flower.db.dat
+flower.db.dir
