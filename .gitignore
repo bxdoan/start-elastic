@@ -20,3 +20,5 @@ pid/
 flower.db.bak
 flower.db.dat
 flower.db.dir
+
+logFile*

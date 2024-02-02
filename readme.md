@@ -7,3 +7,12 @@ https://www.freecodecamp.org/news/how-to-use-elasticsearch-logstash-and-kibana-t
 # Install Elastic
 https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html#docker-compose-file
 
+```bash
+./docker/up.sh 
+./docker/down.sh
+```
+
+# Run to generate log
+```bash
+pipenv run python main.py
+```
