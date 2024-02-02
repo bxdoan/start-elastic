@@ -21,4 +21,4 @@ flower.db.bak
 flower.db.dat
 flower.db.dir
 
-logFile*
+log/logFile.txt

@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f24cc6b9b22044e66bf20044da0ff6ac6915ae6680cfb3f00a95be41a36400e5"
+            "sha256": "9b4408fcc95adb33be48052590a39a792a476bad26f6b05a71c5160cb32026e7"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.9"
+            "python_version": "3.10"
         },
         "sources": [
             {
@@ -16,6 +16,15 @@
         ]
     },
     "default": {
+        "ecs-logging": {
+            "hashes": [
+                "sha256:02581a56b7fc6cbae2de121a4a398ba3bd73d7bb2d67cd029a8a03df0b144098",
+                "sha256:222cc158d4331157d128bc903629010f7724eab8ba4b642efbffd0cb482f4cde"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.6'",
+            "version": "==2.1.0"
+        },
         "python-json-logger": {
             "hashes": [
                 "sha256:23e7ec02d34237c5aa1e29a070193a4ea87583bb4e7f8fd06d3de8264c4b2e1c",
